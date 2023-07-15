@@ -1,4 +1,4 @@
-# Responsive_Restuarant-Website
+# Responsive_Restaurant-Website
 This is a front end project. <br>     I have created a restaurant website 
             Video Link On Youtube  https://youtu.be/hSiAnLT65pI
 
